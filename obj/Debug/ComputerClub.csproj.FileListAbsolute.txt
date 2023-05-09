@@ -1,0 +1,7 @@
+C:\Users\Alexandra\RiderProjects\OOP\ComputerClub\bin\Debug\ComputerClub.exe
+C:\Users\Alexandra\RiderProjects\OOP\ComputerClub\bin\Debug\ComputerClub.pdb
+C:\Users\Alexandra\RiderProjects\OOP\ComputerClub\obj\Debug\ComputerClub.csproj.AssemblyReference.cache
+C:\Users\Alexandra\RiderProjects\OOP\ComputerClub\obj\Debug\ComputerClub.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexandra\RiderProjects\OOP\ComputerClub\obj\Debug\ComputerClub.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\RiderProjects\OOP\ComputerClub\obj\Debug\ComputerClub.exe
+C:\Users\Alexandra\RiderProjects\OOP\ComputerClub\obj\Debug\ComputerClub.pdb
